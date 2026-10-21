@@ -1,0 +1,16 @@
+ANNICA PORTFOLIO — HOW TO EDIT
+
+1. Open this whole folder in VS Code. Right-click index.html → Open with Live Server.
+2. Each of the seven project pages is a separate .html file. Search for a sentence and edit the text between the <p> and </p> tags.
+3. The first 1–3 photos on each page appear in the <div class="case-intro-photos"> block, immediately before the written case study.
+4. The full clickable gallery is near the end of each project HTML file, in <div class="gallery-grid">. Add a new image to images/ then copy an existing <button ...>...</button> block and change the image filename and caption in data-src, data-caption, src, alt, and span.
+5. To resize pictures, look in the <style> block at the top of the page for .case-intro-photos img or .gallery-grid img. Change height:285px or height:225px. object-fit:cover crops; object-fit:contain shows the whole image.
+6. Save changes and check Live Server. GitHub Pages updates only after you upload or push changed files.
+7. Sports Lab and Fallinje Ski currently have no project-specific photos in the available image assets. Their pages intentionally show a clear photo placeholder, not unrelated pictures.
+8. The older lacrosse-trajectory.html page is retained for reference but is not one of the seven featured projects.
+9. To publish, upload the changed HTML files to the main repository and any new photos to its images folder. Keep images/ paths and exact filenames.
+
+EMVOLON PAGE
+- Edit emvolon.html to fill in the overview, contributions, selected work, and results.
+- The first three photo slots and bottom gallery are intentionally empty.
+- Only share workplace images, details, or specifications approved for public disclosure.

@@ -1,0 +1,10 @@
+UPLOAD TO GITHUB
+
+1. Open your public annicalam/portfolio repository.
+2. Upload all HTML files from this folder, replacing existing versions.
+3. Upload the entire images folder, keeping the images/ directory name.
+4. Commit changes. GitHub Pages should republish automatically.
+
+This package contains compressed WebP photographs; original videos are not included.
+The MIT Sports Lab page still needs dedicated research photographs.
+Review the photo selections and captions before sharing publicly.
